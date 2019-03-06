@@ -5,6 +5,6 @@ The solution consists of a mobile applicaiton and a physical gadget that can be 
 
 **Modules used:** 
 
-  Arduino-Uno
-  Accelerometer and gyro sensors
-  HC05 bluetooth module.
+  - Arduino-Uno
+  - Accelerometer and gyro sensors
+  - HC05 bluetooth module.
