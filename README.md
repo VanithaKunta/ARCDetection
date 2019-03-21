@@ -45,6 +45,7 @@ Adverse road conditions are detected using Arduino-Uno, accelerometer and gyro s
 - Whenever an abnormality is detected the arduino board sends a message which describes the abnormality to the mobile application via the bluetooth module.
 - Once a message is received by the smartphone via bluetooth it tags the message with its current location and uploads this information to a centralised database.
 - This location is tagged on the map interface along with the type of abnormality.
+[Mapper Mode](https://pages.github.com/)
 
 ***Navigation Mode:***
 - In this mode, the user is presented with a maps based interface. 
