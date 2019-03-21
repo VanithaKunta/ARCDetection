@@ -20,6 +20,7 @@ Adverse road conditions are detected using Arduino-Uno, accelerometer and gyro s
 
 
  **Architecture:**
+ <img src="https://github.com/VanithaKunta/ARCDetection/blob/master/src/outputs/arc1.jpg" width="400" height="790">
 ![alt text](https://github.com/VanithaKunta/ARCDetection/blob/master/src/outputs/arc1.jpg width="400" height="790")
 
 **Software:**
