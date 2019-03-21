@@ -25,6 +25,8 @@ Adverse road conditions are detected using Arduino-Uno, accelerometer and gyro s
 
 **Software:**
   The proposed software to address the problem in hand is a combination of an algorithm running on the Arduino and a Mobile Application which runs in two modes. Initially the user is presented with a landing screen with a logo. Then the user can select one of the modes by swiping left or right.
+  
+   <img src="https://github.com/VanithaKunta/ARCDetection/blob/master/src/outputs/navMode.jpg" width="320" height="430">   <img src="https://github.com/VanithaKunta/ARCDetection/blob/master/src/outputs/main.jpg" width="320" height="430">   <img src="https://github.com/VanithaKunta/ARCDetection/blob/master/src/outputs/mapMode.jpg" width="320" height="430">
 
 ***The packages used were:*** 
 - react-native-router-flux
