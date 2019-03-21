@@ -38,7 +38,7 @@ Adverse road conditions are detected using Arduino-Uno, accelerometer and gyro s
 
 1) [Mapper Mode](https://github.com/VanithaKunta/ARCDetection/blob/master/docs/Mapper.md)
 
-2) [Navigation Mode](https://github.com/VanithaKunta/ARCDetection/blob/master/docs/Mapper.md)
+2) [Navigation Mode](https://github.com/VanithaKunta/ARCDetection/blob/master/docs/Navigate.md)
 
 
 
