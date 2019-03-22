@@ -18,6 +18,13 @@ Adverse road conditions are detected using Arduino-Uno, accelerometer and gyro s
 - Bluetooth Module(HC05)
 - Arduino Uno
 
+***The packages used were:*** 
+- react-native-router-flux
+- react-native-firebase
+- react-native-maps
+- react-native-maps-directions
+- react-native-bluetooth-serial
+- react-native-swiper
 
  **Architecture:**
  
@@ -27,18 +34,11 @@ Adverse road conditions are detected using Arduino-Uno, accelerometer and gyro s
   The proposed software to address the problem in hand is a combination of an algorithm running on the Arduino and a Mobile Application which runs in two modes. Initially the user is presented with a landing screen with a logo. Then the user can select one of the modes by swiping left or right.
   
    <img src="https://github.com/VanithaKunta/ARCDetection/blob/master/src/outputs/navMode.jpg" width="280" height="480">   <img src="https://github.com/VanithaKunta/ARCDetection/blob/master/src/outputs/main.jpg" width="280" height="480">   <img src="https://github.com/VanithaKunta/ARCDetection/blob/master/src/outputs/mapMode.jpg" width="280" height="480">
+   
 
-***The packages used were:*** 
-- react-native-router-flux
-- react-native-firebase
-- react-native-maps
-- react-native-maps-directions
-- react-native-bluetooth-serial
-- react-native-swiper
+1) [Mapper Mode](https://github.com/VanithaKunta/ARCDetection/blob/master/docs/Mapper.md)
 
-***[Mapper Mode]***(https://github.com/VanithaKunta/ARCDetection/blob/master/docs/Mapper.md)
-
-***[Navigation Mode]***(https://github.com/VanithaKunta/ARCDetection/blob/master/docs/Mapper.md)
+2) [Navigation Mode](https://github.com/VanithaKunta/ARCDetection/blob/master/docs/Navigate.md)
 
 
 
